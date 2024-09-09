@@ -1,5 +1,5 @@
-Governance, Risk, and Compliance Portfolio
-Welcome to my Governance, Risk, and Compliance (GRC) portfolio. This repository contains various projects, policies, assessments, and reports that demonstrate my expertise in GRC, risk assessment, risk management, auditing, and compliance.
+**Governance, Risk, and Compliance Portfolio
+**Welcome to my Governance, Risk, and Compliance (GRC) portfolio. This repository contains various projects, policies, assessments, and reports that demonstrate my expertise in GRC, risk assessment, risk management, auditing, and compliance.
 
 Contents
 Here’s a breakdown of the documents you’ll find in this repository:
